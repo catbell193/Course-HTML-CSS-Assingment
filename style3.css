@@ -1,0 +1,117 @@
+ header {
+	text-align: center;
+	color: white;
+	background-color:#009999;
+	font-family:verdana;
+	margin: 0px;
+	padding-bottom: 1px;
+	padding-top: 1px;
+}
+
+body {
+	font-family: verdana;
+	width: 800px;
+	margin: 0px;
+}
+/* The Aside with the navlinks*/
+
+.mom {
+	float: left;
+	background-color:#ffd073;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	width: 150px;
+	height: 260px;
+	text-align: center;
+	margin-right: 20px;
+	margin-bottom: 15px;
+	font-size: 16px;
+	text-decoration: underline;
+	list-style-type: none;
+	margin-top: 0px;
+	line-height: 3.1;
+}
+
+/* The individual Navlinks*/
+
+a {
+	color: #a64b00;
+	font-weight: bold;
+}
+
+/* The Article containing the Sections*/
+
+article {
+	color: white;
+	font-size: 14px;
+	padding-top: 20px;
+	margin-left: 10px;
+}
+
+/* It's the Journey AND Destination*/
+
+h2 {
+	font-size: 20px;
+	color:white;
+}
+
+/*This Month's Special: Washington DC*/
+
+h3 {
+	color: #f5bf42;
+	text-align:center;
+}
+
+/*The Copyright and Footer*/
+
+footer {
+	background-color:#ffd073;
+	color: #a64b00;
+	text-align: center;
+	font-size: 12px;
+	margin-bottom: 30px;
+	line-height: 2.5px;
+	padding: 1px;
+
+}
+
+/* The div class containing the Articles and Sections*/
+
+.girl {
+	background-color:#006363;
+	line-height: 1.4;
+	margin: 0px;
+	padding-bottom: 20px;
+}
+
+/* The image of washington Monument*/
+	
+.baby {
+	float: right;
+	height: 260px;
+	width: 200px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 40px;
+	color: #f5bf42;
+	text-align: center;
+	line-height: 1.0;
+	padding-right: 15px;
+}
+
+/* The Caption under the image on the right and above the 3 images below*/
+
+figcaption {
+	color: #f5bf42;
+	text-align: center;
+}
+/* The figure containing the 3 images on the bottom capital building etc.*/
+
+.house {
+	margin: 0px;
+	margin-top: 10px;
+}
+
+
+
